@@ -19,12 +19,5 @@ Sıcaklık değerine göre motorun kapalı, düşük, orta veya yüksek hızda �
 
 ### 03 — Sıcaklığa Göre LED Kontrolü
 Sıcaklığa göre LED'in kapalı, yanıp sönen veya açık olduğunu simüle eder; yüksek sıcaklıkta uyarı verir.
-
-## Sonraki aşamalar
-- `while` döngüleri
-- Buton + LED + motor kontrolü
-- Mikrodenetleyici (Arduino/ESP32)
-- Servo motorlar
-- Robot kol projesi
-
+ 
 > Not: Bu projeler eğitim amaçlı Python simülasyonlarıdır; gerçek motor/LED donanımı doğrudan kontrol etmez.
