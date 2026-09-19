@@ -90,3 +90,37 @@ This repository will be updated as I continue learning and building new projects
 ## 📌 Note
 
 These projects are educational exercises and Python simulations. They do not directly control physical hardware.
+
+###   06-while_loop
+
+# 🐍 Python While Loop Exercises
+
+This folder contains my Python practice exercises focused on the `while` loop and basic programming logic.
+
+These exercises are part of my **mechatronics learning journey**, where I am building a foundation in Python for future work with sensors, motors, Arduino, ESP32, robotics, and automation.
+
+## 📚 Topics Covered
+
+* `while` loops
+* Comparison operators
+* `!=` operator
+* Counter logic
+* `+=` and `-=` operators
+* Loop conditions
+* Stopping a loop with a condition
+* Basic automation simulations
+
+## 🤖 Practice Examples
+
+The exercises include simple simulations such as:
+
+* Motor running time
+* Robot battery level
+* Counter-based control
+* Sensor-like continuous checking
+
+## 🎯 Purpose
+
+The goal of these exercises is to understand how loops and control logic work before applying the same concepts to real-world mechatronics projects.
+
+I will continue adding new Python exercises as I progress in my learning journey.
